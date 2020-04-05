@@ -1,2 +1,1 @@
-# vannam9a3-gmail.com
-tindog
+https://vannamnguyen.github.io/tindog/
